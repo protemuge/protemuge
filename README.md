@@ -1,16 +1,15 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/protemuge/protemuge/main/assets/protemuge-banner.svg" 
+       alt="ProTemuge Banner" width="600"/>
+</p>
 
-<!--
-**protemuge/protemuge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=protemuge&show_icons=true&theme=radical" 
+       alt="GitHub Stats"/>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary>✨ Unlock Temuge Mode</summary>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Celebration"/>
+  <p>Welcome to the hidden layer of ProTemuge 🚀</p>
+</details>
