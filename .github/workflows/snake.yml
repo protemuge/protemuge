@@ -1,4 +1,4 @@
- name: Generate Surron Rider
+name: Generate Surron Rider
 
 on:
   schedule:
@@ -9,7 +9,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate snake animation
+        uses: Platane/snk@v3
         with:
           github_user_name: protemuge
           outputs: |
@@ -17,6 +18,7 @@ jobs:
             dist/surron-dark.svg?palette=github-dark
           snake: 🏍️
           palette: "red,orange,yellow,black"
+
       - name: Push Rider
         uses: crazy-max/ghaction-github-pages@v3
         with:
