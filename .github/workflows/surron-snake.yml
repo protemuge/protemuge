@@ -1,0 +1,38 @@
+name: Generate Surron Ultra Bee snake
+
+on:
+  # Auto-refresh every hour
+  schedule:
+    - cron: "0 * * * *"
+  # Optional: run manually from Actions tab
+  workflow_dispatch:
+
+jobs:
+  generate-surron-snake:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Surron Ultra Bee wheelie SVGs
+        uses: protemuge/snk@main
+        with:
+          github_user_name: protemuge
+          outputs: |
+            dist/surron.svg?palette=github
+            dist/surron-dark.svg?palette=github-dark
+
+      - name: Commit generated SVGs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add dist/surron.svg dist/surron-dark.svg || true
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update Surron Ultra Bee snake SVGs"
+            git push
+          fi
