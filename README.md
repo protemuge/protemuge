@@ -8,6 +8,7 @@
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=protemuge&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=protemuge&theme=radical" alt="GitHub Streak"/>
@@ -16,6 +17,7 @@
 ---
 
 ### 🛠️ Tech Stack
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,docker,git,github,arch,npm,python" />
 </p>
@@ -23,25 +25,30 @@
 ---
 
 ### 🏍️🔥 Contribution Rider
+
 <p align="center"><i>Updated daily — my commits blaze across the grid 🏍️🔥</i></p>
 
-![Surron Rider Light](https://raw.githubusercontent.com/protemuge/protemuge/output/surron.svg#gh-light-mode-only)
-![Surron Rider Dark](https://raw.githubusercontent.com/protemuge/protemuge/output/surron-dark.svg#gh-dark-mode-only)
+![Surron Rider Light](dist/surron.svg#gh-light-mode-only)
+![Surron Rider Dark](dist/surron-dark.svg#gh-dark-mode-only)
 
 ---
 
 ### ✨ Hidden Easter Egg
+
 <details>
   <summary>🚀 Unlock Temuge Mode</summary>
+
   <p align="center">
     <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Celebration"/>
   </p>
+
   <p align="center">Welcome to the hidden layer of ProTemuge 🔒</p>
 </details>
 
 ---
 
 ### 🌐 Connect
+
 <p align="center">
   <a href="https://linkedin.com/in/protemuge"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://twitter.com/protemuge"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
