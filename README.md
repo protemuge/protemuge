@@ -23,10 +23,11 @@
 ---
 
 ### 🏍️🔥 Contribution Rider
-<p align="center">My commits blaze like a Surron Ultra Bee ⚡🐝</p>
+<p align="center"><i>Updated daily — my commits blaze across the grid 🏍️🔥</i></p>
 
 ![Surron Rider Light](https://raw.githubusercontent.com/protemuge/protemuge/output/surron.svg#gh-light-mode-only)
 ![Surron Rider Dark](https://raw.githubusercontent.com/protemuge/protemuge/output/surron-dark.svg#gh-dark-mode-only)
+
 ---
 
 ### ✨ Hidden Easter Egg
