@@ -22,10 +22,11 @@
 
 ---
 
-### 🐍 Contribution Snake
-![GitHub Snake Light](https://github.com/protemuge/protemuge/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/protemuge/protemuge/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+### 🏍️🔥 Contribution Rider
+<p align="center">My commits blaze like a Surron Ultra Bee ⚡🐝</p>
 
+![Surron Rider Light](https://raw.githubusercontent.com/protemuge/protemuge/output/surron.svg#gh-light-mode-only)
+![Surron Rider Dark](https://raw.githubusercontent.com/protemuge/protemuge/output/surron-dark.svg#gh-dark-mode-only)
 ---
 
 ### ✨ Hidden Easter Egg
