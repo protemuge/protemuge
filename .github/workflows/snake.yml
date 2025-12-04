@@ -16,8 +16,6 @@ jobs:
           outputs: |
             dist/surron.svg
             dist/surron-dark.svg?palette=github-dark
-          snake: 🏍️
-          palette: "red,orange,yellow,black"
 
       - name: Push Rider
         uses: crazy-max/ghaction-github-pages@v3
