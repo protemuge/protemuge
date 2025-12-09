@@ -10,7 +10,7 @@
 
 ---
 
-### 🏍️ Surron Wheelie
+###  Surron Wheelie
 
 <p align="center"><i>Just a Surron doing endless wheelies across my contributions 🏍️🔥</i></p>
 
@@ -29,7 +29,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,arch,docker,kubernetes,git,github,nginx" />
@@ -41,7 +41,7 @@
 
 ---
 
-### ✨ Hidden Easter Egg
+### Hidden Easter Egg
 
 <details>
   <summary>🚀 Unlock Temuge Mode</summary>
