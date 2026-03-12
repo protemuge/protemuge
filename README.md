@@ -1,59 +1,169 @@
-<!-- ProTemuge GitHub Profile README -->
+<div align="center">
 
-<p align="center">
-  <!-- Animated typing banner -->
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=ProTemuge;Infrastructure+Strategist;LAN+Mapper+%7C+Container+Automator;Always+Building+Reliable+Systems"
-    alt="Typing SVG"
-  />
-</p>
+<!-- PIXEL ART HEADER -->
+```
+██████╗ ██████╗  ██████╗ ████████╗███████╗███╗   ███╗██╗   ██╗ ██████╗ ███████╗
+██╔══██╗██╔══██╗██╔═══██╗╚══██╔══╝██╔════╝████╗ ████║██║   ██║██╔════╝ ██╔════╝
+██████╔╝██████╔╝██║   ██║   ██║   █████╗  ██╔████╔██║██║   ██║██║  ███╗█████╗  
+██╔═══╝ ██╔══██╗██║   ██║   ██║   ██╔══╝  ██║╚██╔╝██║██║   ██║██║   ██║██╔══╝  
+██║     ██║  ██║╚██████╔╝   ██║   ███████╗██║ ╚═╝ ██║╚██████╔╝╚██████╔╝███████╗
+╚═╝     ╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚══════╝╚═╝     ╚═╝ ╚═════╝  ╚═════╝ ╚══════╝
+```
 
----
+<!-- PIXEL CAR ANIMATION - runs through red light with fire trail -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&pause=500&color=FF4500&center=true&vCenter=true&width=700&lines=%F0%9F%9A%A6+%F0%9F%9A%97%F0%9F%92%A8%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5+%F0%9F%9A%A6;red+light%3F+never+heard+of+it.;%F0%9F%9A%A6+%F0%9F%9A%97%F0%9F%92%A8%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5+%F0%9F%9A%A6;rules+are+for+slow+builds.;%F0%9F%9A%A6+%F0%9F%9A%97%F0%9F%92%A8%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5+%F0%9F%9A%A6;infrastructure+never+stops.">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&pause=500&color=FF4500&center=true&vCenter=true&width=700&lines=%F0%9F%9A%A6+%F0%9F%9A%97%F0%9F%92%A8%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5+%F0%9F%9A%A6;red+light%3F+never+heard+of+it.;%F0%9F%9A%A6+%F0%9F%9A%97%F0%9F%92%A8%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5+%F0%9F%9A%A6;rules+are+for+slow+builds.;%F0%9F%9A%A6+%F0%9F%9A%97%F0%9F%92%A8%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5+%F0%9F%9A%A6;infrastructure+never+stops." alt="car animation">
+</picture>
 
-###  Surron Wheelie
-
-<p align="center"><i>Just a Surron doing endless wheelies across my contributions 🏍️🔥</i></p>
-
-<p align="center">
-  <!-- Light mode -->
-  <img
-    src="dist/surron.svg#gh-light-mode-only"
-    alt="Surron Wheelie Light"
-  />
-  <!-- Dark mode -->
-  <img
-    src="dist/surron-dark.svg#gh-dark-mode-only"
-    alt="Surron Wheelie Dark"
-  />
-</p>
+<!-- TYPING TAGLINE -->
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=TEMUGE+%2F%2F+SYS+ONLINE;LAN+Mapper+%7C+Container+Wrangler;Arch+Linux+%26+Docker+%3E+Sleep;Still+Learning.+Always+Shipping." alt="Typing SVG" />
 
 ---
 
-### Tech Stack
+<!-- PIXEL DIVIDER -->
+```
+▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓
+```
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,arch,docker,kubernetes,git,github,nginx" />
-</p>
+## `> WHO_AM_I.exe`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,python,bash,redis,postgres" />
-</p>
+```bash
+$ cat /etc/temuge/profile.conf
+
+[identity]
+name        = Temuge
+alias       = ProTemuge
+role        = Infrastructure Strategist & Pixel Menace
+os          = Arch Linux (btw)
+hobbies     = wheelies, red lights, containers, chaos
+
+[status]
+learning    = always
+sleep       = optional
+uptime      = 99.9% (coffee dependent)
+```
 
 ---
 
-### Hidden Easter Egg
+```
+▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓
+```
+
+## `> TECH_STACK.dat`
+
+<!-- Infrastructure -->
+**[ INFRA & OPS ]**
+
+<img src="https://skillicons.dev/icons?i=linux,arch,docker,kubernetes,nginx,git,github&theme=dark" />
+
+<!-- Dev -->
+**[ DEV TOOLS ]**
+
+<img src="https://skillicons.dev/icons?i=ts,nodejs,react,python,bash,redis,postgres&theme=dark" />
+
+> ⚠️ *"I know things. Not all things. But enough things to make it work."*
+
+---
+
+```
+▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓
+```
+
+## `> GITHUB_STATS.log`
+
+<img src="https://github-readme-stats.vercel.app/api?username=protemuge&show_icons=true&theme=synthwave&hide_border=true&title_color=FF4500&icon_color=00FF41&text_color=ffffff&bg_color=0d0d0d" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=protemuge&theme=synthwave&hide_border=true&fire=FF4500&ring=00FF41&currStreakLabel=FF4500" />
+
+---
+
+```
+▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓
+```
+
+## `> PROJECTS.dir`
+
+```
+📁 /home/protemuge/projects/
+├── 🏍️  surron-wheelie-tracker/   → counting wheelies since 2024
+├── 🐳  container-chaos/          → docker stuff that somehow works
+├── 🌐  lan-map-3000/             → your network but drawn beautifully
+└── 🔥  red-light-runner/         → [CLASSIFIED] 🚦💨
+```
+
+---
+
+```
+▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓
+```
+
+## `> JOKES.exe`
+
+```bash
+$ ./joke --random
+
+[JOKE #1] Why do programmers prefer dark mode?
+          Because light attracts bugs. 🪲
+
+[JOKE #2] A SQL query walks into a bar,
+          walks up to two tables and asks:
+          "Can I JOIN you?" 🍺
+
+[JOKE #3] Why did the developer go broke?
+          Because he used up all his cache. 💸
+
+[JOKE #4] My code never has bugs.
+          It has random features. 🚀
+```
+
+---
+
+```
+▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓
+```
+
+## `> SURRON_MODE.sh`
+
+<p align="center"><i>🏍️ just a surron doing endless wheelies across my contributions 🔥</i></p>
+
+---
+
+```
+▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓
+```
+
+## `> EASTER_EGG.hidden`
 
 <details>
-  <summary>🚀 Unlock Temuge Mode</summary>
+<summary>🚦 <b>UNLOCK TEMUGE MODE — if you dare</b> 🚦</summary>
 
-  <p align="center">
-    <img
-      src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif"
-      alt="Celebration"
-    />
-  </p>
+<br>
 
-  <p align="center">
-    Welcome to the hidden layer of ProTemuge 🔒
-  </p>
+```
+🚦 RED
+🚦 RED  
+🚦 RED
+
+🚗💨🔥🔥🔥  →→→→→→→→→→→→→→→→→→→→→→→→→→→
+
+          yeah. didn't stop.
+          never does.
+```
+
+> *"The light was red. The build was green. Easy choice."*
+> — ProTemuge, probably
+
 </details>
+
+---
+
+```
+▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&pause=2000&color=FF4500&center=true&vCenter=true&width=700&lines=SYSTEM+STATUS%3A+ONLINE+%F0%9F%9F%A2;TRAFFIC+LIGHTS%3A+IGNORED+%F0%9F%9A%A6%F0%9F%92%A8;CONTAINERS%3A+RUNNING+%F0%9F%90%B3;SLEEP%3A+OPTIONAL+%F0%9F%92%A4" alt="status" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=protemuge&color=FF4500&style=pixel&label=VISITORS)
+
+</div>
