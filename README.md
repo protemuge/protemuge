@@ -70,18 +70,6 @@ uptime      = 99.9% (coffee dependent)
 ▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓
 ```
 
-## `> GITHUB_STATS.log`
-
-<img src="https://github-readme-stats.vercel.app/api?username=protemuge&show_icons=true&theme=synthwave&hide_border=true&title_color=FF4500&icon_color=00FF41&text_color=ffffff&bg_color=0d0d0d" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=protemuge&theme=synthwave&hide_border=true&fire=FF4500&ring=00FF41&currStreakLabel=FF4500" />
-
----
-
-```
-▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓
-```
-
 ## `> PROJECTS.dir`
 
 ```
@@ -171,16 +159,6 @@ $ ./joke --random
 </picture>
 
 > 🐍 *eating commits since day one*
-
----
-
-```
-▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓
-```
-
-## `> ACTIVITY_GRAPH.png`
-
-[![Temuge's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=protemuge&bg_color=0d0d0d&color=00FF41&line=FF4500&point=ffffff&area=true&hide_border=true&custom_title=COMMIT%20TRAIL%20%F0%9F%94%A5)](https://github.com/protemuge)
 
 ---
 
